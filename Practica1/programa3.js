@@ -1,18 +1,12 @@
-let nombre;
-let proyecto;
-let ancho;
-let alto;
-let pixeles;
+let nombre = prompt("Ingrese su nombre:");
 
-nombre = prompt("Ingrese su nombre:");
+let proyecto = prompt("Ingrese el nombre de su proyecto multimedia:");
 
-proyecto = prompt("Ingrese el nombre de su proyecto multimedia:");
+let ancho = Number(prompt("Ingrese el ancho de la imagen en píxeles:"));
 
-ancho = Number(prompt("Ingrese el ancho de la imagen en píxeles:"));
+let alto = Number(prompt("Ingrese el alto de la imagen en píxeles:"));
 
-alto = Number(prompt("Ingrese el alto de la imagen en píxeles:"));
-
-pixeles = ancho * alto;
+let pixeles = ancho * alto;
 
 console.log("================================");
 
