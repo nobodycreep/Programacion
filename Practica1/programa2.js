@@ -10,3 +10,4 @@ let pixeles = ancho * alto;
 console.log("Ancho: " + ancho + " px");
 console.log("Alto: " + alto + " px");
 console.log("Total de píxeles: " + pixeles);
+console.log("Programa desarrollado en JavaScript.");

@@ -20,3 +20,4 @@ console.log("Estudiante: " + nombre);
 console.log("Proyecto: " + proyecto);
 
 console.log("==============================");
+console.log("Programa desarrollado en JavaScript.");

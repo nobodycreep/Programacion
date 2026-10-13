@@ -35,3 +35,4 @@ console.log("");
 console.log("Total de píxeles: " + pixeles);
 
 console.log("================================");
+console.log("Programa desarrollado en JavaScript.");
