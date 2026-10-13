@@ -5,12 +5,9 @@ console.log("Programación Aplicada a la Multimedia");
 console.log("Mi primer programa JavaScript funciona correctamente.");
 
 
-let nombre;
-let proyecto;
+let nombre = prompt("Ingrese su nombre:");
 
-nombre = prompt("Ingrese su nombre:");
-
-proyecto = prompt("Ingrese el nombre de su proyecto multimedia:");
+let proyecto = prompt("Ingrese el nombre de su proyecto multimedia:");
 
 console.log("==============================");
 console.log("PROYECTO MULTIMEDIA");
